@@ -10,6 +10,7 @@ This repo contains code of Mr. Panda's Portfolio for a Codrops article!! It's a 
 
 - [Intro Screen Font](https://fonts.google.com/specimen/Plus+Jakarta+Sans)
 - [Notebook Paper Material](https://superhivemarket.com/products/crafty-asset-pack)
+- [On a stick idea](https://x.com/mesqme)
 - [Dragon Reference Image](https://studycli.org/chinese-culture/chinese-dragons/)
 - [Tracing Kpop Demon Hunters Image](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1000w,f_auto,q_auto:best/rockcms/2025-07/250709-Kpop-Demon-Hunters-vl-256p-ea5850.jpg)
 - [Egyption Artifact Reference Image One](https://www.teacherspayteachers.com/Product/Egyptian-Artifacts-Clipart-Set-1-4283355)
